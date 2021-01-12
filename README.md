@@ -7,7 +7,7 @@ ds
 Create a GitHub client:
 
 ```a
-package main
+package mainss
 
 import (
 	"github.com/drone/go-scm/scm"
