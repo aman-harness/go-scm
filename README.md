@@ -11,7 +11,7 @@ package mainss
 
 import (
 	"github.com/drone/go-scm/scm"
-	"github.com/drone/go-scm/scm/driver/github"
+	"github.com/drone/go-scmaa/scm/driver/github"
 )
 
 func main() {
