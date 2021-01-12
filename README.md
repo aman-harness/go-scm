@@ -5,7 +5,7 @@ Package scm provides a unified interface to multiple source code management syst
 # Getting Started
 
 Create a GitHub client:
-
+ss
 ```Goca
 package maina
 
