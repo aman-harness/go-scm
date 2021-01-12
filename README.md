@@ -7,7 +7,7 @@ Package scm provides a unified interface to multiple source code management syst
 Create a GitHub client:
 
 ```Goc
-package main
+package maina
 
 import (
 	"github.com/drone/go-scm/scm"
