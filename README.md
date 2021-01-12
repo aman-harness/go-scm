@@ -106,6 +106,6 @@ func main() {
 		Transport: &PrivateToken{
 			Token: "ecf4c1f9869f59758e679ab54b4",
 		},
-	}
+	}d
 }
 ```
