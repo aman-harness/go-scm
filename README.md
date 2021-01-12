@@ -3,10 +3,10 @@
 Package scm provides a unified interface to multiple source code management systems including GitHub, GitHub Enterprise, Bitbucket, Bitbucket Server, Gitea and Gogs.
 
 # Getting Started
-
+ds
 Create a GitHub client:
 
-```Go
+```Gocc
 package main
 
 import (
@@ -106,6 +106,6 @@ func main() {
 		Transport: &PrivateToken{
 			Token: "ecf4c1f9869f59758e679ab54b4",
 		},
-	}
+	}d
 }
 ```
