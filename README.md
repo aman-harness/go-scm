@@ -6,7 +6,7 @@ Package scm provides a unified interface to multiple source code management syst
 ds
 Create a GitHub client:
 
-```Go
+```Gocc
 package main
 
 import (
