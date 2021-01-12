@@ -15,7 +15,7 @@ import (
 )
 
 func main() {
-	client := github.NewDefault()
+	client := github.NewDefaultdss
 }
 ```
 
